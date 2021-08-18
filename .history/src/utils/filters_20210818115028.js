@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
+// 价钱过滤器，计算折扣后的价格， 同时加上￥符号顶顶顶顶顶顶
+=======
 // 价钱过滤器，计算折扣后的价格， 同时加上￥符号 飒飒撒得瑟得瑟 
+>>>>>>> team3
 const digitsRE = /(\d{3})(?=\d)/g
 
 export function factPrice(value, discount){
