@@ -1,5 +1,5 @@
 
-// 价钱过滤器，计算折扣后的价格， 同时加上￥符号实打实打算
+// 价钱过滤器，计算折扣后的价格， 同时加上￥符号
 const digitsRE = /(\d{3})(?=\d)/g
 
 export function factPrice(value, discount){
